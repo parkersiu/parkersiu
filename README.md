@@ -19,7 +19,7 @@ const parker = {
 ```
 
 ## 📫 How to reach me:
-[![Linkedin: parkersiu]([https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/parkersiu/)](https://www.linkedin.com/in/parkersiu/)
+[![Linkedin: parkersiu](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/parkersiu/)](https://www.linkedin.com/in/parkersiu/)
 
 <!--
 **parkersiu/parkersiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
