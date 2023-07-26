@@ -13,7 +13,7 @@ const parker = {
             js: ["Node", "Express"],
         },
         devOps: ["AWS", "Docker🐳", "Vercel"],
-        databases: ["PostgreSQL, "MySQL"],
+        databases: ["PostgreSQL", "MySQL"],
     },
     funFact: "I hold a commercial pilot and ground instructor license."
 };
