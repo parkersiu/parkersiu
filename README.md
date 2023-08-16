@@ -6,9 +6,12 @@ I'm a software engineer with a passion for designing and creating useful technol
 ```javascript
 const parker = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS"],
+    code: ["Javascript", "HTML", "CSS", "Python"],
     askMeAbout: ["web dev", "React", "aviation"],
     technologies: {
+        frontEnd: {
+            js: ["React", "Next"]
+        },
         backEnd: {
             js: ["Node", "Express"],
         },
