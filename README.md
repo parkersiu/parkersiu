@@ -6,17 +6,17 @@ I'm a software engineer with a passion for creating useful technology and solvin
 ```javascript
 const parker = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "Python"],
+    code: ["Javascript", "HTML", "CSS", "Python", "TypeScript"],
     askMeAbout: ["web dev", "React", "aviation"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next"]
+            js: ["React", "Next", "React Native"]
         },
         backEnd: {
             js: ["Node", "Express"],
         },
-        devOps: ["AWS", "Docker🐳", "Vercel"],
-        databases: ["PostgreSQL", "MySQL"],
+        devOps: ["AWS", "Docker", "Vercel"],
+        databases: ["PostgreSQL", "MySQL", "NoSQL", "Firebase"],
     },
     funFact: "I hold a commercial pilot and ground instructor license."
 };
